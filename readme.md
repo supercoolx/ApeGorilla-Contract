@@ -2,7 +2,6 @@
 
 Contract Information
 ====================
-
       transaction hash:    0x21362897265aed06b19ec85eed89a7eb440a557de385cc8bf6c584b5ae15bc72
       Blocks: 2            Seconds: 22
       contract address:    0x12a789738276de5391079Ad7F38eB74f517b57b3
